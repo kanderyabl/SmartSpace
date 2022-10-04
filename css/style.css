@@ -532,6 +532,11 @@ h6 {
 .card__title {
   font-size: 1.375rem;
   margin-bottom: 0.9375rem;
+  font-weight: 600;
+  font-size: 1.375rem;
+  line-height: 136%;
+  text-align: center;
+  color: #000000;
 }
 
 .estate__header {
